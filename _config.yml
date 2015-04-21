@@ -1,25 +1,27 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
-canonical: http://jekyll.gtat.me
+title:            "forma confusione"
+tagline:          "order out of chaos"
+description: >
+  Cheryl seeks to magnify Jesus through sourdough, bookbinding, knitting,
+  coding, painting, languages, reading, typography, music, parenting and
+  any other craft.
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           "Cheryl Chong"
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+#  bio:
+#  email:          melisande@gmail.com
+  twitter:        ccsdg
+  github:         cheryl
+#  instagram:      ctrunsthis
+  dribbble:       ccsdg
+#  disqus:         balzac
+  location:       "Auckland, New Zealand"
   # Plug in your disqus shortname!
 
-tools:
-  standards:      "HTML, SCSS, Jekyll"
-  software:       "git"
+#tools:
+#  standards:      "HTML, SCSS, Jekyll"
+#  software:       "git"
 
 # Links to include in top navigation
 # For external links add external: true
@@ -27,14 +29,14 @@ links:
   - title: About
     url: /about
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+    url: https://github.com/cheryl
     external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+  - title: Cheryl
+    url: http://www.twitter.com/ccsdg
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    "New Zealand"
 future:      true
 highlighter: pygments
 markdown:    kramdown
