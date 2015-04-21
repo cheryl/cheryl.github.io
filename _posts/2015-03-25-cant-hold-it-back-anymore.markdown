@@ -10,7 +10,7 @@ I found someone else's art online. Original lineart before mypaint/gimp, scrambl
 
 I'm not a Frozen fan - the recipient is - but I do appreciate a good pun. The best thing was that E was able to help me make this card. Her fine motor skills are getting so good.
 
-![Card](/images/20150325frozencard.jpg)
+[![Card](/images/20150325frozencard.jpg)](/images/20150325frozencard.jpg)
 
 
 [//]: # Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
